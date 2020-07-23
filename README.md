@@ -1,2 +1,2 @@
-# BULK_MAIL
-Sending a mail to multiple recipients using a python script
+# BULK MAIL with smtplib
+Sending a mail to multiple recipients using a python script.
